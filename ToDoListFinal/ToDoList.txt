@@ -1,0 +1,22 @@
+Priority:	Description:                                                          Status:           Due Date:         Date Started/Finished:
+1		This is a preset                                                      IN_PROGRESS       04/16             04/12               
+2		as a placeholder so you don't have to add new items                   IN_PROGRESS       07/18             04/14               
+3		every single time we test some component of the program               IN_PROGRESS       09/01             04/14               
+4		If you wish to start the program without these preadded items         IN_PROGRESS       09/01             04/25               
+5		comment out line 65 to 78                                             IN_PROGRESS       09/23             05/01               
+6		                                                                      IN_PROGRESS       --/--             -                   
+7		                                                                      IN_PROGRESS       --/--             -                   
+8		To-Do:                                                                IN_PROGRESS       10/04             05/01               
+9		                                                                      IN_PROGRESS       --/--             -                   
+10		replace buttons with images                                           IN_PROGRESS       11/18             05/01               
+11		sorting doesnt fully work                                             IN_PROGRESS       11/18             05/07               
+12		save/restore                                                          NOT_STARTED       12/31             -                   
+13		                                                                      NOT_STARTED       12/31             -                   
+14		this is a completed item                                              COMPLETED         06/27             06/05               
+15		this is a different completed item                                    COMPLETED         06/28             06/05               
+
+Deleted Items:
+-		this too is a deleted item                                            DELETED           06/05             -                   
+-		this is a different deleted item                                      DELETED           06/05             04/29               
+-		this is a deleted item                                                DELETED           06/05             -                   
+-		click status to change                                                DELETED           12/31             -                   
