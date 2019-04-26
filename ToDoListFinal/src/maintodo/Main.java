@@ -80,7 +80,7 @@ public class Main extends javax.swing.JFrame
 		sorter.sort();
 
 		refreshTable();
-		enableItemPreset(); // Comment this out to disable preset.
+		//enableItemPreset(); // Comment this out to disable preset.
 	}
 
 	public static void enableItemPreset()
